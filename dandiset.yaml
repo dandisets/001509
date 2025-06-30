@@ -17,7 +17,8 @@ assetsSummary:
   species: []
   variableMeasured: []
 citation: 'Loizidou, Panagiota; National Institute of Neurological Disorders and Stroke
-  (2025) Data for: R01 NS121918 (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001509/draft'
+  (2025) Data for: R01 NS121918 (Version 0.250630.1940) [Data set]. DANDI Archive.
+  https://doi.org/10.48324/dandi.001509/0.250630.1940'
 contributor:
 - affiliation: []
   email: panloizidou@gmail.com
@@ -38,8 +39,9 @@ dateCreated: '2025-06-16T23:48:42.022053+00:00'
 datePublished: '2025-06-30T19:40:48.590555+00:00'
 description: The dataset contains example raw calcium imaging obtained from hippocampal
   CA1 in freely-moving mice (mus musculus).
+doi: 10.48324/dandi.001509/0.250630.1940
 ethicsApproval: []
-id: DANDI:001509/draft
+id: DANDI:001509/0.250630.1940
 identifier: DANDI:001509
 keywords:
 - hippocampus
@@ -49,7 +51,7 @@ keywords:
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001509/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001509/0.250630.1940/assets.yaml
 name: 'Data for: R01 NS121918'
 protocol:
 - https://reporter.nih.gov/project-details/10906310
@@ -72,6 +74,6 @@ schemaVersion: 0.6.10
 studyTarget:
 - How the hippocampal CA1 balances the need to preserve prior knowledge with the necessity
   to continuously learn new information
-url: https://dandiarchive.org/dandiset/001509/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001509/0.250630.1940
+version: 0.250630.1940
 wasGeneratedBy: []
